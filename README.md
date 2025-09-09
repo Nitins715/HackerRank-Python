@@ -46,6 +46,4 @@
   + [Linear Algebra](42Linear_Algebra.py)
 
   + [itertools.product()](43itertools_product.py)
-  + [itertools.permutations()](45itertools_permutations.py)
-  + [itertools.combinations()](51itertools_combinations.py)
-  + [itertools.combinations_with_replacement()](52itertools_combinationsWithReplacement.py)
+  + [itertools.permutations()](44itertools_permutations.py)
