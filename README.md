@@ -44,6 +44,8 @@
   + [Inner and Outer](40Inner_and_Outer.py)
   + [Polynomials](41Polynomials.py)
   + [Linear Algebra](42Linear_Algebra.py)
+  + [Introduction to Sets(Sets)](43Intro_sets.py)
+  + [Symmetric Difference](44Symmetric_Difference.py)
 
-  + [itertools.product()](43itertools_product.py)
-  + [itertools.permutations()](44itertools_permutations.py)
+  + [itertools.product()](100itertools_product.py)
+  + [itertools.permutations()](101itertools_permutations.py)
