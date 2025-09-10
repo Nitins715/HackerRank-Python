@@ -46,6 +46,9 @@
   + [Linear Algebra](42Linear_Algebra.py)
   + [Introduction to Sets(Sets)](43Intro_sets.py)
   + [Symmetric Difference](44Symmetric_Difference.py)
+  + [No Idea!](45No_Idea!.py)
+  + [Set .add()](46Set_Add.py)
+  + [Set .discard(), .remove() & .pop()](46Set_operations.py)
 
   + [itertools.product()](100itertools_product.py)
   + [itertools.permutations()](101itertools_permutations.py)
