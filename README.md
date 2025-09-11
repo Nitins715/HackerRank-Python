@@ -44,7 +44,6 @@
   + [Inner and Outer](40Inner_and_Outer.py)
   + [Polynomials](41Polynomials.py)
   + [Linear Algebra](42Linear_Algebra.py)
-
   + [Introduction to Sets(Sets)](43Intro_sets.py)
   + [Symmetric Difference](44Symmetric_Difference.py)
   + [No Idea!](45No_Idea!.py)
@@ -58,5 +57,12 @@
   + [The Captain's Room](53Captain_Room.py)
   + [Check Subset](54Check_Subset.py)
   + [Check Strict Superset](55Strict_Superset.py)
+  + [Zipped!(Built-Ins)](56Zipped.py)
+  + [Input()](57Input.py)
+  + [Python Evaluation](58Python_Eval.py)
+  + [Athlete Sort](59Athlete_Sort.py)
+  + [Any or All](60Any_All.py)
+  + [ginortS](61ginortS.py)
+  
   + [itertools.product()](100itertools_product.py)
   + [itertools.permutations()](101itertools_permutations.py)
