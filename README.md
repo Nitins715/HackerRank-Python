@@ -58,6 +58,5 @@
   + [The Captain's Room](53Captain_Room.py)
   + [Check Subset](54Check_Subset.py)
   + [Check Strict Superset](55Strict_Superset.py)
-
   + [itertools.product()](100itertools_product.py)
   + [itertools.permutations()](101itertools_permutations.py)
