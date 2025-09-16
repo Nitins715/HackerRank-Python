@@ -63,6 +63,11 @@
   + [Athlete Sort](59Athlete_Sort.py)
   + [Any or All](60Any_All.py)
   + [ginortS](61ginortS.py)
+  + [itertools.product()](62itertools_product.py)
+  + [itertools.permutations()](63itertools_permutations.py)
+  + [itertools.combinations()](64itertools_combinations.py)
+  + [itertools.combinations_with_replacement()](65itertools_combinations_with_replacement.py)
+  + [Compress the String!](66Compress_String.py)
+  + [Iterables and Iterators](67Iterables_Iterators.py)
+  + [Maximize It!](68Maximize_It.py)
   
-  + [itertools.product()](100itertools_product.py)
-  + [itertools.permutations()](101itertools_permutations.py)
