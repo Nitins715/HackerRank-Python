@@ -69,5 +69,11 @@
   + [itertools.combinations_with_replacement()](65itertools_combinations_with_replacement.py)
   + [Compress the String!](66Compress_String.py)
   + [Iterables and Iterators](67Iterables_Iterators.py)
-  + [Maximize It!](68Maximize_It.py)
-  
+  + [Maximize It! (Math)](68Maximize_It.py)
+  + [Polar Coordinates](69Polar_Coordinates.py)
+  + [Mod Divmod](70Mod_Divmod.py)
+  + [Power -Mod Power](71Mod_Power.py)
+  + [Integers Come In All Sizes](72Integers_Sizes.py) 
+  + [Find Angle MBC](73Find_Angle.py) 
+  + [Triangle Quest](74Triangle_Quest.py) 
+  + [Triangle Quest 2](75Triangle_Quest2.py) 
