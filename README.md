@@ -82,3 +82,7 @@
   + [Collections.namedtuple()](78Collections_namedtuple.py)
   + [Collections.OrderedDict()](79Collections_OrderedDict.py)
   + [Word Order](80Word_Order.py)
+  + [Collections.deque()](81Collections_deque.py)
+  + [Piling Up!](82Piling_Up.py)
+  + [Company Logo](83Company_Logo.py)
+  
