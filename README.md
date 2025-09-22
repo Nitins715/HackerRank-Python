@@ -87,3 +87,8 @@
   + [Company Logo](83Company_Logo.py)
   + [Calendar Module (Date and Time)](84Calendar_Module.py)
   + [Time Delta](85Time_Delta.py)
+  + [Exceptions (Exceptions)](86Exceptions.py)
+  + [Incorrect Regex](87Incorrect_Regex.py)
+  + [Map and Lambda Function (Python Functionals)](88Map_And_Lambda.py)
+  + [Validating Email Addresses With a Filter](89Validating_Email.py)
+  + [Reduce Function](90Reduce_Function.py)
