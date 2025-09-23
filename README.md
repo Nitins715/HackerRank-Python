@@ -92,3 +92,8 @@
   + [Map and Lambda Function (Python Functionals)](88Map_And_Lambda.py)
   + [Validating Email Addresses With a Filter](89Validating_Email.py)
   + [Reduce Function](90Reduce_Function.py)
+  + [Detect Floating Point Number (Regex and Parsing)](91Detect_Floating_Point.py)
+  + [Re.split()](92Re_split.py)
+  + [Group(), Groups() & Groupdict()](93Re_Group.py)
+  + [Re.findall() & Re.finditer()](94Re_findall.py)
+  + [Re.start() & Re.end()](95Re_start.py)
