@@ -97,3 +97,8 @@
   + [Group(), Groups() & Groupdict()](93Re_Group.py)
   + [Re.findall() & Re.finditer()](94Re_findall.py)
   + [Re.start() & Re.end()](95Re_start.py)
+  + [Validating Roman Numerals](96Roman_Numerals.py)
+  + [Validating phone numbers](97phone_numbers.py)
+  + [Validating and Parsing Email Addresses](98Email_Addresses.py)
+  + [Hex Color Code](99Hex_Color.py)
+  + [HTML Parser - Part 1](100HTML_Parser1.py)
