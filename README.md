@@ -101,4 +101,4 @@
   + [Validating phone numbers](97phone_numbers.py)
   + [Validating and Parsing Email Addresses](98Email_Addresses.py)
   + [Hex Color Code](99Hex_Color.py)
-  + [HTML Parser - Part 1](100HTML_Parser1.py)
+  + [Regex Substitution](100Regex_Substitution.py)
