@@ -113,3 +113,8 @@
   + [XML2 - Find the Maximum Depth](109Max_Depth.py)
   + [Classes: Dealing with Complex Numbers (Classes)](110Complex_Classes.py)
   + [Class 2 - Find the Torsional Angle](111Finding_Angle.py)
+  + [Standardize Mobile Number (Closures and Decorators)](112Standardize.py)
+  + [DecoratorsDecorators 2 - Name Directory](113Decorators_Name_Directory.py)
+  + [Words Score (Debugging)](114Words_Score.py)
+  + [Default Arguments](115Default_Arguments.py)
+  
